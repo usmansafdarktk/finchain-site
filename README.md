@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" width="200"/>
+  <img src="[assets/logo.png](https://github.com/mbzuai-nlp/finchain/raw/main/assets/logo.png)" width="200"/>
 </p>
 
 <h1 align="center">FinChain</h1>
@@ -73,6 +73,7 @@ For questions or collaborations, contact: **zhuohan.xie@mbzuai.ac.ae**
 ---
 
 > **Disclaimer**: FinChain uses synthetic data based on symbolic financial equations. It does not reflect real-world financial advice or regulation.
+
 
 
 
