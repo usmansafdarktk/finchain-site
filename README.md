@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="static/images/finchain-taxonomy.png" width="220"/>
+  <img src="assets/logo.png" width="200"/>
 </p>
 
 <h1 align="center">FinChain</h1>
-<p align="center"><em>A Symbolic Benchmark for Verifiable Chain-of-Thought Financial Reasoning</em></p>
+<p align="center"><em>A Symbolic Benchmark for Verifiable Chain-of-Thought
+Financial Reasoning</em></p>
 
 ---
 
@@ -34,7 +35,44 @@ This repository hosts the **official website and leaderboard** for the FinChain 
 
 ---
 
-## 🧠 Citation
 
-If you find **FinChain** useful for your research, please cite:
+## 📄 Citation
+
+If you find **FinChain** useful in your research, please consider citing our paper:
+
+```bibtex
+
+@article{xie2025finchain,
+  title={FinChain: A Symbolic Benchmark for Verifiable Chain-of-Thought Financial Reasoning},
+  author={Xie, Zhuohan and Sahnan, Dhruv and Banerjee, Debopriyo and Georgiev, Georgi and Thareja, Rushil and Madmoun, Hachem and Su, Jinyan and Singh, Aaryamonvikram and Wang, Yuxia and Xing, Rui and Koto, Fajri and Li, Haonan and Koychev, Ivan and Chakraborty, Tanmoy and Lahlou, Salem and Stoyanov, Veselin and Nakov, Preslav},
+  journal={arXiv preprint arXiv:2506.02515},
+  year={2025}
+}
+
+
+```
+
+
+## 👥 Authors
+
+FinChain is developed by:
+
+Zhuohan Xie, Dhruv Sahnan, Debopriyo Banerjee, Georgi Georgiev,  
+Rushil Thareja, Hachem Madmoun, Jinyan Su, Aaryamonvikram Singh,  
+Yuxia Wang, Rui Xing, Fajri Koto, Haonan Li, Ivan Koychev,  
+Tanmoy Chakraborty, Salem Lahlou, Veselin Stoyanov, Preslav Nakov
+
+Affiliations: MBZUAI, Sofia University, Quantsquare, Cornell University, IIT Delhi
+
+For questions or collaborations, contact: **zhuohan.xie@mbzuai.ac.ae**
+
+
+## ⚖️ License
+
+
+---
+
+> **Disclaimer**: FinChain uses synthetic data based on symbolic financial equations. It does not reflect real-world financial advice or regulation.
+
+
 
